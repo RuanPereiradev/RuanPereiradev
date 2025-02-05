@@ -37,11 +37,12 @@
 <table>
   <tr>
     <td>
-      <img 
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuanPereiradev&theme=tokyonight" />
+<!--       <img 
   alt="GitHub Stats" 
   height="200" 
   src="https://github-readme-stats.vercel.app/api?username=RuanPereiradev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+/> -->
     </td>
     <td>
       <img 
