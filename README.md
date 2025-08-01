@@ -39,7 +39,6 @@
  
 
 
-<table>
   <tr>
     <td>
       <img 
@@ -56,6 +55,5 @@ src="https://github-readme-stats.vercel.app/api?username=RuanPereiradev&show_ico
       />
     </td>
   </tr>
-</table>
 
 
