@@ -6,43 +6,43 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,linux,java,spring,react,git,github,vscode&theme=dark" />
-</div>
+&lt;div align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=cs,dotnet,ts,linux,java,spring,react,git,github,vscode&theme=dark" /&gt;
+&lt;/div&gt;
 
 ## 📱 Conecte-se comigo
 
-<div align="center">
-  <a href="https://instagram.com/ruanpereira__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:ruanpereira@alu.ufc.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ruan-pereira-do-nascimento-ab6a45228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+&lt;div align="center"&gt;
+  &lt;a href="https://instagram.com/ruanpereira__" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:ruanpereira@alu.ufc.br"&gt;
+    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.linkedin.com/in/ruan-pereira-do-nascimento-ab6a45228/" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+## 💻 Linguagens Mais Usadas
+
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanPereiradev&layout=compact&theme=radical&hide_border=true" height="180" /&gt;
+&lt;/div&gt;
 
 ## 📊 GitHub Stats
 
-
-
-<div align="center">
+&lt;div align="center"&gt;
   
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=RuanPereiradev&theme=radical&hide_border=true" height="180" />
+  &lt;!-- Streak Stats --&gt;
+  &lt;img src="https://streak-stats.demolab.com?user=RuanPereiradev&theme=radical&hide_border=true" height="180" /&gt;
   
-</div>
-
-
-
+&lt;/div&gt;
 
 ## 📈 Atividade Recente
 
-<div align="center">
+&lt;div align="center"&gt;
   
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RuanPereiradev&theme=github-dark&hide_border=true)
   
-</div>
-
+&lt;/div&gt;
