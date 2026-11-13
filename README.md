@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Ruan Pereira, desenvolvedor back-end e automação" width="100%" />
+  <img src="assets/hero.gif" alt="Um mascote 3D de capacete monta, cubo por cubo, o nome Ruan Pereira: back-end e automação" width="100%" />
 </p>
 
 Estudo Engenharia de Computação na Universidade Federal do Ceará e trabalho com back-end em **Java/Spring** e
