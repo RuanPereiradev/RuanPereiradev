@@ -83,6 +83,33 @@ teor de um processo.
 
 <img src="assets/sec-web.svg" alt="Projetos web" width="100%" />
 
+### AGΩN: gestão de academias ligada à catraca
+
+Sistema web para o dono e a recepção da academia. Ele se comunica com a catraca: a cada passagem, decide se
+libera ou bloqueia o aluno, conforme o plano. **Já é usado por grandes academias da região.**
+
+<p align="center">
+  <img src="assets/agon-card-00.svg" alt="Agon: painel inicial com atalhos, indicadores de alunos ativos e entradas de hoje, e lista de planos para renovar. Dados fictícios" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/agon-card-01.svg" alt="Agon, tela Frequência: entradas de hoje, pessoas na academia agora, horário de pico e gráfico de movimento por hora. Dados fictícios" width="49%" />
+  <img src="assets/agon-card-02.svg" alt="Agon, tela Matrículas: lista de alunos com plano, vencimento, forma de pagamento e situação. Dados fictícios" width="49%" />
+</p>
+
+<p align="center">
+  <img src="assets/agon-card-03.svg" alt="Agon, tela Planos: cartões dos planos mensal, trimestral, semestral e anual com preço, serviços e número de alunos. Dados fictícios" width="49%" />
+  <img src="assets/agon-card-04.svg" alt="Agon, tela Relatórios: alunos ativos, novos alunos, cancelamentos e gráficos de entradas por mês e por dia da semana. Dados fictícios" width="49%" />
+</p>
+
+<p align="center"><sub>Telas com dados fictícios, gerados só para as imagens.</sub></p>
+
+`Python` `Flask` `SQLite` `HTML/CSS/JS` `Catraca Topdata`
+
+> O código do AGΩN é privado: ele roda em academias reais e lida com dados de alunos.
+
+**Outros projetos web**
+
 *Motion explicativo em produção.*
 
 - **[Castel](https://github.com/RuanPereiradev/sistema-castelo)**: sistema de gestão hoteleira e de restaurante, em monolito modular com domínio rico. `Java 21` `Spring Boot` `React` `PostgreSQL` `Docker`
