@@ -121,14 +121,22 @@ comanda. O hotel usa o mesmo núcleo financeiro para lançar diárias na conta d
 <p align="center"><sub>Vídeo de apresentação do Castel. <a href="assets/castel-promo.mp4">Ver em MP4</a>.</sub></p>
 
 <p align="center">
-  <img src="assets/castel-card-01.svg" alt="Castel, tela do cliente: entrada da mesa pelo QR, com nome e cardápio. Dados fictícios" width="100%" />
+  <img src="assets/castel-cliente-inicio.png" alt="Castel, cliente: entrada da mesa pelo QR, com nome" width="32%" />
+  <img src="assets/castel-cliente-cardapio.png" alt="Castel, cliente: cardápio da mesa por categoria" width="32%" />
+  <img src="assets/castel-cliente-carrinho.png" alt="Castel, cliente: revisão do pedido antes de enviar" width="32%" />
 </p>
 
 <p align="center">
-  <img src="assets/castel-card-02.svg" alt="Castel, tela de login: acesso da equipe por usuário e senha. Dados fictícios" width="100%" />
+  <img src="assets/castel-cliente-pedido-enviado.png" alt="Castel, cliente: pedido enviado, aguardando o garçom" width="32%" />
+  <img src="assets/castel-cliente-pedidos.png" alt="Castel, cliente: acompanhamento dos pedidos da mesa" width="32%" />
+  <img src="assets/castel-cliente-conta.png" alt="Castel, cliente: conta da mesa" width="32%" />
 </p>
 
-<p align="center"><sub>Telas com dados fictícios. Salão, caixa, cozinha e administração entram em breve.</sub></p>
+<p align="center">
+  <img src="assets/castel-equipe-login.png" alt="Castel, tela de login da equipe" width="66%" />
+</p>
+
+<p align="center"><sub>Telas do cliente em celular e a tela de login da equipe. Dados de teste. Salão, caixa, cozinha e administração entram em breve.</sub></p>
 
 `Java 21` `Spring Boot 4` `React` `PostgreSQL` `Docker` `Flyway`
 
