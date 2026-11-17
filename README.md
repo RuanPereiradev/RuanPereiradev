@@ -57,50 +57,19 @@ teor de um processo.
 
 <p align="center"><sub>As telas abaixo estão em modo simulação, sem dados reais. <a href="https://ruanpereiradev.github.io/autobots/">Abrir a vila em simulação</a>.</sub></p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<img src="assets/vila-01-sam.png" alt="Vila 01: fortaleza de pedra em pixel art, com um dragão dormindo sobre o tesouro e quatro heróis" width="100%" />
-<br>
-<b>Vila 01 · Sam: a Fortaleza do Dragão</b>
-<br>
-<sub>Uma missão de RPG. A comitiva acompanha o envio das tarefas e o quadro Missão marca cada etapa. No lançamento o dragão acorda, e a vida da Torre cai a cada tarefa gravada. Se dá erro, ele cospe fogo.</sub>
-</td>
-<td width="33%" valign="top">
-<img src="assets/vila-02-bumblebee.png" alt="Vila 02: ponte vista de cima, com carros, robôs duelando e o carro amarelo do Bumblebee" width="100%" />
-<br>
-<b>Vila 02 · Bumblebee: a batalha na ponte</b>
-<br>
-<sub>Ele preenche processo, órgão e valor nas tarefas de comprovante previdenciário. O filtro é a cabine de pedágio, e a captura é o pórtico com painel. Parado é robô; para andar, vira carro.</sub>
-</td>
-<td width="33%" valign="top">
-<img src="assets/vila-03-albi.png" alt="Vila 03: campo com casa em domo, lago, dragão verde no céu e o mascote rosa do Albi" width="100%" />
-<br>
-<b>Vila 03 · Albi: a arena</b>
-<br>
-<sub>Ele pesquisa processos em lote, a partir de uma lista de CPFs e CNPJs, e baixa as planilhas. Anda da casa em domo até a torre de pesquisa, uma linha por vez. No céu, dois lutadores destroem e reconstroem a casa.</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/vila-card-01.svg" alt="Vila 01, Sam: fortaleza de pedra em pixel art com um dragão dormindo sobre o tesouro e quatro heróis" width="100%" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="assets/vila-04-jarvis.png" alt="Vila 04: garagem com telas, carros, armaduras e um núcleo azul de IA flutuando" width="100%" />
-<br>
-<b>Vila 04 · Jarvis: a garagem</b>
-<br>
-<sub>Uma vez por mês ele lê os processos de cada grupo de clientes e monta a planilha do relatório. Cada etapa tem uma máquina: rack com antena, scanner e terminal com impressora. O Jarvis é o núcleo azul que voa entre elas.</sub>
-</td>
-<td width="50%" valign="top">
-<img src="assets/vila-05-orelha.png" alt="Vila 05: parque de cães com a casinha do Orelha, mural de calendário, caixa de correio e o cachorro no caminho" width="100%" />
-<br>
-<b>Vila 05 · Orelha: o parque</b>
-<br>
-<sub>O cão leitor entrega o relatório do dia: agenda, tarefas atrasadas, intimações esquecidas e processos parados. O parque reage aos números: cada atraso é um ossinho na areia, e mais atrasos trazem mais nuvens. Ao meio-dia ele come; à noite, dorme.</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/vila-card-02.svg" alt="Vila 02, Bumblebee: ponte vista de cima com carros, robôs duelando e o carro amarelo do Bumblebee" width="49%" />
+  <img src="assets/vila-card-03.svg" alt="Vila 03, Albi: campo com casa em domo, lago, dragão verde no céu e o mascote rosa do Albi" width="49%" />
+</p>
+
+<p align="center">
+  <img src="assets/vila-card-04.svg" alt="Vila 04, Jarvis: garagem com telas, carros, armaduras e um núcleo azul de IA flutuando" width="49%" />
+  <img src="assets/vila-card-05.svg" alt="Vila 05, Orelha: parque de cães com a casinha do Orelha, mural de calendário, caixa de correio e o cachorro" width="49%" />
+</p>
 
 `Pixel art em Canvas` `HTML/JS` `Flask` `Eventos em JSONL`
 
