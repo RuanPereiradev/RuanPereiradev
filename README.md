@@ -115,7 +115,7 @@ faz o pedido pelo celular. O garçom acompanha cada item, a cozinha recebe os pe
 comanda. O hotel usa o mesmo núcleo financeiro para lançar diárias na conta do hóspede.
 
 <p align="center">
-  <video src="assets/castel-promo.mp4" controls width="320" muted playsinline></video>
+  <img src="assets/castel-promo.gif" alt="Vídeo de apresentação do Castel: comanda some, garçom confirma pedido pelo celular, marca Castel" width="300" />
 </p>
 
 <p align="center"><sub>Vídeo de apresentação do Castel. <a href="assets/castel-promo.mp4">Ver em MP4</a>.</sub></p>
