@@ -115,6 +115,12 @@ faz o pedido pelo celular. O garçom acompanha cada item, a cozinha recebe os pe
 comanda. O hotel usa o mesmo núcleo financeiro para lançar diárias na conta do hóspede.
 
 <p align="center">
+  <video src="assets/castel-promo.mp4" controls width="320" muted playsinline></video>
+</p>
+
+<p align="center"><sub>Vídeo de apresentação do Castel. <a href="assets/castel-promo.mp4">Ver em MP4</a>.</sub></p>
+
+<p align="center">
   <img src="assets/castel-card-01.svg" alt="Castel, tela do cliente: entrada da mesa pelo QR, com nome e cardápio. Dados fictícios" width="100%" />
 </p>
 
