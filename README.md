@@ -108,11 +108,33 @@ libera ou bloqueia o aluno, conforme o plano. **Já é usado por grandes academi
 
 > O código do AGΩN é privado: ele roda em academias reais e lida com dados de alunos.
 
+### Castel: hotel e restaurante num só sistema
+
+Sistema de gestão para hotel e restaurante. No restaurante, o cliente escaneia o QR da mesa, vê o cardápio e
+faz o pedido pelo celular. O garçom acompanha cada item, a cozinha recebe os pedidos por setor, e o caixa fecha a
+comanda. O hotel usa o mesmo núcleo financeiro para lançar diárias na conta do hóspede.
+
+<p align="center">
+  <img src="assets/castel-card-01.svg" alt="Castel, tela do cliente: entrada da mesa pelo QR, com nome e cardápio. Dados fictícios" width="49%" />
+  <img src="assets/castel-card-02.svg" alt="Castel, tela de login: acesso da equipe por usuário e senha. Dados fictícios" width="49%" />
+</p>
+
+<p align="center"><sub>Telas com dados fictícios. Salão, caixa, cozinha e administração entram em breve.</sub></p>
+
+`Java 21` `Spring Boot 4` `React` `PostgreSQL` `Docker` `Flyway`
+
+**Decisões de projeto**
+
+- Monolito modular: cada módulo (restaurante, hotel, billing, finance) expõe só a própria API. A fronteira é
+  validada por ArchUnit no CI.
+- Dinheiro sempre em `Money` e nunca em `double`. Valor trafega como string decimal.
+- Comanda aceita lançamento concorrente sem lock otimista. Lock pessimista só no fechamento.
+- Estados de domínio são métodos de negócio (`confirm()`, `cancel()`), não `setStatus()`.
+
 **Outros projetos web**
 
 *Motion explicativo em produção.*
 
-- **[Castel](https://github.com/RuanPereiradev/sistema-castelo)**: sistema de gestão hoteleira e de restaurante, em monolito modular com domínio rico. `Java 21` `Spring Boot` `React` `PostgreSQL` `Docker`
 - **[CineSol](https://github.com/RuanPereiradev/cinesol-microsservice)**: plataforma de gestão de cinemas e venda de ingressos em arquitetura de microsserviços. `NestJS` `Kafka` `Prisma` `PostgreSQL` `Docker`
 - **[Docket Auth API](https://github.com/RuanPereiradev/docket-backend)**: API de autenticação com MFA (TOTP). `Java 21` `Spring Boot` `PostgreSQL` `Redis`
 - **[AgendaPro](https://github.com/RuanPereiradev/AgendaPro-FrontEnd)**: front-end de um sistema de agendamento profissional online. `Next.js` `React` `TypeScript` `Tailwind`
